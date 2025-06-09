@@ -2,3 +2,10 @@ body{
     background-color: #444444;
     color: purple;
 }
+button{
+    background-color: #666666;
+    color: pink;
+}
+button:hover{
+    background-color: #222222;
+}
