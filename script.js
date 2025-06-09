@@ -2,7 +2,7 @@ console.log("Hi, welcome!");
 console.log("type \"add()\" and press enter to call the addition function I built in:")
 
 function changeH1(){
-    var header = document.getElementById("header")
+    var header = document.getElementById("header");
 
     if (header.innerHTML == "Change H1 above &uparrow;"){
         header.innerHTML = "Look I changed!";
