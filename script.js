@@ -5,7 +5,7 @@ function changeH1(){
     var header = document.getElementById("header");
 
     if (header.innerHTML == "Look I changed!"){
-        header.innerHTML = "Change H1 above &uparrow;";
+        header.innerHTML = "Header";
     }else{
         header.innerHTML = "Look I changed!";
     }
