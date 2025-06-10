@@ -9,3 +9,16 @@ button{
 button:hover{
     background-color: #222222;
 }
+#hoverHead{
+    padding: 45px;
+    border: 3px outset purple;
+}
+#hoverHead:hover{
+    animation: hoverHeader 5s once;
+}
+@keyframes hoverHeader {
+    from{   padding: 45px;
+            border: 3px outset purple;}
+    to{     padding: 70px;
+            border: 10px inset lime;}
+}
