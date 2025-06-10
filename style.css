@@ -27,6 +27,7 @@ button:hover {
   50% {
     padding: 70px;
     border: 20px outset lime;
+    color: greenyellow;
     border-radius: 50%;
   }
   to {
