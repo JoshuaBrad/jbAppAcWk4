@@ -14,7 +14,7 @@ button:hover{
     border: 3px outset purple;
 }
 #hoverHead:hover{
-    animation: hoverHeader 5s;
+    animation: hoverHeader 5s infinite;
 }
 @keyframes hoverHeader {
     from{   padding: 45px;
