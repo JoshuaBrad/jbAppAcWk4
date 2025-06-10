@@ -24,6 +24,7 @@ button:hover {
   50% {
     padding: 70px;
     border: 10px inset lime;
+    border-radius: 20px;
   }
   to {
     padding: 45px;
